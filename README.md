@@ -1,4 +1,4 @@
-1 - Download MySQL Server And Set it Up
+1 - Download MySQL Server And Set it Up\n
 2 - Enter DB_ConnectionInfo program And Enter DataBase info , First time you use this, Create a New database
 with the create database button
 3 - 1 - if you created a database and thats the one you wanna use, then you are good to go
